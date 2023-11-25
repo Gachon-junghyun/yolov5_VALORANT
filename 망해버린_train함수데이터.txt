@@ -1,0 +1,1 @@
+python train.py --img 1152 --epochs 13 --data ../me_write1.yaml --weights yolov5x.pt
